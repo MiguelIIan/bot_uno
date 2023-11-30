@@ -45,3 +45,10 @@ def generate_launch_description():
         gazebo,
         spawn_entity,
     ])
+
+
+    # git status    --->     git add .     --->      git commit -m "Mensaje que defina la actualización"
+
+    # Clave para git push ---------> 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 (durante 7 dias)
+
+    #  * Entrar en developer settings y definir una nueva token para meterla en la parte de contraseña.
